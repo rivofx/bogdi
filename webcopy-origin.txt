@@ -1,0 +1,316 @@
+Uri: https://www.googletagmanager.com/gtag/js?id=G-NSGL0XWGWW
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.scalzodesign.be/
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\index.htm
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/assets/global-HrnB0tRh.js
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\assets\global-HrnB0tRh.js
+Content Type: application/javascript
+
+Uri: https://www.scalzodesign.be/assets/global-s0cKKLyf.css
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\assets\global-s0cKKLyf.css
+Content Type: text/css
+
+Uri: https://www.scalzodesign.be/assets/main-xIzY6bio.js
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\assets\main-xIzY6bio.js
+Content Type: application/javascript
+
+Uri: https://www.scalzodesign.be/design-lab-images/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/10.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\10.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/11.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\11.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/12.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\12.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/13.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\13.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/14.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\14.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/15.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\15.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/16.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\16.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/17.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\17.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/5.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\5.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/6.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\6.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/7.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\7.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/8.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\8.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab-images/9.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab-images\9.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/design-lab/
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\design-lab\index.htm
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/favicons/apple-touch-icon.png
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.scalzodesign.be/favicons/favicon-16x16.png
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.scalzodesign.be/favicons/favicon-32x32.png
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.scalzodesign.be/favicons/favicon.ico
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\favicons\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.scalzodesign.be/favicons/safari-pinned-tab.svg
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.scalzodesign.be/favicons/site.webmanifest
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\favicons\site.webmanifest
+Content Type: 
+
+Uri: https://www.scalzodesign.be/fonts/PP-Eiko/PPEiko-Thin.otf
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Eiko\PPEiko-Thin.otf
+Content Type: application/x-font-otf
+
+Uri: https://www.scalzodesign.be/fonts/PP-Eiko/PPEiko-Thin.ttf
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Eiko\PPEiko-Thin.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.scalzodesign.be/fonts/PP-Eiko/PPEiko-Thin.woff
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Eiko\PPEiko-Thin.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.scalzodesign.be/fonts/PP-Eiko/PPEiko-Thin.woff2
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Eiko\PPEiko-Thin.woff2
+Content Type: 
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal-Mono/PPNeueMontrealMono-Medium.otf
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal-Mono\PPNeueMontrealMono-Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal-Mono/PPNeueMontrealMono-Medium.ttf
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal-Mono\PPNeueMontrealMono-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal-Mono/PPNeueMontrealMono-Medium.woff
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal-Mono\PPNeueMontrealMono-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal-Mono/PPNeueMontrealMono-Medium.woff2
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal-Mono\PPNeueMontrealMono-Medium.woff2
+Content Type: 
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal/PPNeueMontreal-Medium.otf
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal\PPNeueMontreal-Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal/PPNeueMontreal-Medium.ttf
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal\PPNeueMontreal-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal/PPNeueMontreal-Medium.woff
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal\PPNeueMontreal-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: https://www.scalzodesign.be/fonts/PP-Neue-Montreal/PPNeueMontreal-Medium.woff2
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\fonts\PP-Neue-Montreal\PPNeueMontreal-Medium.woff2
+Content Type: 
+
+Uri: https://www.scalzodesign.be/projects/01/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\01\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/01/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\01\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/01/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\01\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/01/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\01\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/01/thumbnail.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\01\thumbnail.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/02/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\02\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/02/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\02\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/02/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\02\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/02/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\02\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/02/thumbnail.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\02\thumbnail.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/03/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\03\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/03/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\03\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/03/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\03\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/03/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\03\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/03/thumbnail.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\03\thumbnail.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/04/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\04\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/04/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\04\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/04/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\04\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/04/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\04\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/04/thumbnail.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\04\thumbnail.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/05/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\05\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/05/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\05\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/05/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\05\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/05/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\05\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/05/thumbnail.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\05\thumbnail.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/06/1.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\06\1.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/06/2.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\06\2.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/06/3.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\06\3.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/06/4.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\06\4.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/projects/06/thumbnail.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\projects\06\thumbnail.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/samuel.webp
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\samuel.webp
+Content Type: image/webp
+
+Uri: https://www.scalzodesign.be/work/
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\index.htm
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/work/bonpain
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\bonpain.html
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/work/botchi
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\botchi.html
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/work/deep-trace
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\deep-trace.html
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/work/inside-software
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\inside-software.html
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/work/neutron
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\neutron.html
+Content Type: text/html
+
+Uri: https://www.scalzodesign.be/work/space-exploration
+File Name: C:\Users\rivofx\Desktop\cycopy\www.scalzodesign.be\work\space-exploration.html
+Content Type: text/html
+
