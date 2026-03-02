@@ -7,13 +7,13 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.rivofxdev.be/">
-    <meta property="og:title" content="Bogdi — Digital Designer">
+    <meta property="og:title" content="Bogdi — UI/UX Designer">
     <meta property="og:description" content="UI/UX Developer. Freelance digital designer based in Romania, passionate about crafting attractive and meaningful experiences for the web.">
     <meta property="og:image" content="/meta.jpg">
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.rivofxdev.be/">
-    <meta property="twitter:title" content="Bogdi — Digital Designer">
+    <meta property="twitter:title" content="Bogdi — UI/UX Designer">
     <meta property="twitter:description" content="UI/UX Developer. Freelance digital designer based in Romania, passionate about crafting attractive and meaningful experiences for the web.">
     <meta property="twitter:image" content="/meta.jpg">
 
@@ -39,8 +39,8 @@
       gtag("config", "G-NSGL0XWGWW");
     </script>
 
-    <title>Bogdi — Digital Designer</title>
-    <meta name="title" content="Bogdi — Digital Designer">
+    <title>Bogdi — UI/UX Designer</title>
+    <meta name="title" content="Bogdi — UI/UX Designer">
     <meta name="description" content="UI/UX Developer. Freelance digital designer based in Romania, passionate about crafting attractive and meaningful experiences for the web. Designing since 2022.">
     <script type="module" crossorigin="" src="assets/main-xIzY6bio.js"></script>
     <link rel="modulepreload" crossorigin="" href="assets/global-HrnB0tRh.js">
@@ -61,18 +61,7 @@
         <img src="logo.png" alt="rivofxdev logo" style="width:40px;height:40px;object-fit:contain;">
       </a>
 
-      <nav class="header__nav">
-        <ul class="header__nav__list">
-          <li class="header__nav__el" data-splitting="">
-            <a href="design-lab/index.htm"><span>Design Lab</span></a>
-          </li>
-          <li class="header__nav__el">
-            <a class="button magnet" rel="noreferrer" target="_blank" href="mailto:info@rivofxdev.be" data-tilt="">
-              Email me
-            </a>
-          </li>
-        </ul>
-      </nav>
+
     </header>
 
     <div data-barba="container" data-barba-namespace="home">
@@ -93,10 +82,10 @@
             </span>
             <span>
               <span>
-                <span aria-hidden="true"> Digital Designer </span>
+                <span aria-hidden="true"> UI/UX Designer </span>
 
                 <span class="sans" data-splitting="" data-title-animation="" data-triangle="">
-                  Digital Designer
+                  UI/UX Designer
                 </span>
               </span>
             </span>
@@ -208,11 +197,31 @@
         </div>
 
         <div class="footer__mail">
-          <a href="mailto:info@rivofxdev.be" rel="noreferrer" target="_blank" class="serif text-white uppercase footer__cta" data-splitting="">
-            <span>→</span>
-            <span>Send me an email</span>
-          </a>
-          <p class="footer__time">
+          <form id="contact-form" style="width:100%;max-width:480px;" onsubmit="sendEmail(event)">
+            <input type="hidden" name="access_key" value="b0b9fd8d-a526-44ea-81d3-49bc20c76bfa">
+            <input type="hidden" name="subject" value="New message from rivofxdev.be">
+            <input type="hidden" name="from_name" value="rivofxdev Portfolio">
+            <p class="mono text-sm uppercase" style="color:#e03333;margin-bottom:18px;letter-spacing:0.08em;">Send me an email ►</p>
+            <div style="display:flex;flex-direction:column;gap:12px;">
+              <input type="text" name="name" placeholder="Your name" required
+                style="background:transparent;border:none;border-bottom:1px solid #3a0000;padding:10px 0;color:#fff;font-family:inherit;font-size:0.85rem;outline:none;transition:border-color 0.2s;"
+                onfocus="this.style.borderColor='#e03333'" onblur="this.style.borderColor='#3a0000'">
+              <input type="email" name="email" placeholder="Your email" required
+                style="background:transparent;border:none;border-bottom:1px solid #3a0000;padding:10px 0;color:#fff;font-family:inherit;font-size:0.85rem;outline:none;transition:border-color 0.2s;"
+                onfocus="this.style.borderColor='#e03333'" onblur="this.style.borderColor='#3a0000'">
+              <textarea name="message" placeholder="Your message" rows="3" required
+                style="background:transparent;border:none;border-bottom:1px solid #3a0000;padding:10px 0;color:#fff;font-family:inherit;font-size:0.85rem;outline:none;resize:none;transition:border-color 0.2s;"
+                onfocus="this.style.borderColor='#e03333'" onblur="this.style.borderColor='#3a0000'"></textarea>
+            </div>
+            <button type="submit" id="form-btn"
+              style="margin-top:20px;background:transparent;border:1px solid #e03333;color:#e03333;padding:10px 28px;border-radius:4px;font-family:inherit;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.08em;cursor:none;transition:all 0.2s ease;"
+              onmouseover="this.style.background='#e03333';this.style.color='#fff'"
+              onmouseout="this.style.background='transparent';this.style.color='#e03333'">
+              Send →
+            </button>
+            <p id="form-status" style="margin-top:10px;font-size:0.75rem;display:none;"></p>
+          </form>
+          <p class="footer__time" style="margin-top:20px;">
             <span class="mono text-sm uppercase" data-splitting="">local time ►</span>
             <span class="text-white time" id="local-time">
               <span>08</span>
@@ -221,6 +230,43 @@
             </span>
           </p>
         </div>
+
+        <script>
+          async function sendEmail(e) {
+            e.preventDefault();
+            var btn = document.getElementById('form-btn');
+            var status = document.getElementById('form-status');
+            var form = document.getElementById('contact-form');
+
+            btn.textContent = 'Sending...';
+            btn.disabled = true;
+            status.style.display = 'none';
+
+            var data = new FormData(form);
+            try {
+              var res = await fetch('https://api.web3forms.com/submit', {
+                method: 'POST',
+                body: data
+              });
+              var json = await res.json();
+              if (json.success) {
+                status.textContent = '✓ Message sent! I\'ll get back to you soon.';
+                status.style.color = '#4caf50';
+                status.style.display = 'block';
+                form.reset();
+              } else {
+                throw new Error('Failed');
+              }
+            } catch(err) {
+              status.textContent = '✗ Something went wrong. Please try again.';
+              status.style.color = '#e03333';
+              status.style.display = 'block';
+            }
+
+            btn.textContent = 'Send →';
+            btn.disabled = false;
+          }
+        </script>
 
         <div class="footer__credits">
           <img src="logo.png" alt="rivofxdev logo" class="footer__logo" style="width:60px;height:60px;object-fit:contain;" data-tilt="">
